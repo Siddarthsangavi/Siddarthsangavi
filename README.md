@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddarth Sangavi</h1>
 <h3 align="center">A passionate computer science engineer.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Siddarthsangavi/Siddarthsangavi/assets/93962762/eb2ac44f-2fa1-4ab0-a9b2-6523efff1455)">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarthsangavi&label=Profile%20views&color=0e75b6&style=flat" alt="siddarthsangavi" /> </p>
 
 
