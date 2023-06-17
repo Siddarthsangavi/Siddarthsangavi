@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **siddarthsangavi28@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-0xmDrX8lKpI8g5V0mgcsfwh7siD4HUf/edit?usp=drivesdk&ouid=102879083004771735473&rtpof=true&sd=true](https://docs.google.com/document/d/1-0xmDrX8lKpI8g5V0mgcsfwh7siD4HUf/edit?usp=drivesdk&ouid=102879083004771735473&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1-0xmDrX8lKpI8g5V0mgcsfwh7siD4HUf/edit?usp=drivesdk&ouid=102879083004771735473&rtpof=true&sd=true](https://shorturl.at/kDU02)
 
 - ⚡ Fun fact **i play with codes.**
 
