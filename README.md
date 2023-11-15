@@ -24,9 +24,3 @@
 <a href="https://www.hackerrank.com/siddarthsangavi5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddarthsangavi5" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddarthsangavi&show_icons=true&locale=en&layout=compact" alt="siddarthsangavi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddarthsangavi&show_icons=true&locale=en" alt="siddarthsangavi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthsangavi&" alt="siddarthsangavi" /></p>
