@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarthsangavi&label=Profile%20views&color=0e75b6&style=flat" alt="siddarthsangavi" /> </p>
 
 
-- 🌱 I’m currently learning **network on chip**
+- 🌱 I’m currently into the field of **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddarthsangavi/](https://github.com/Siddarthsangavi/)
 
