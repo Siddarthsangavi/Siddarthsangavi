@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **siddarthsangavi28@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/kDU02]
+- 📄 Know about my experiences [[https://shorturl.at/kDU02](https://drive.google.com/file/d/1_d7pPDIWA_cD8oyw3qF9eDuARLokyFu4/view?usp=drivesdk)]
 
 - ⚡ Fun fact **i play with codes.**
 
